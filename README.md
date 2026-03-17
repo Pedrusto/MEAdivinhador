@@ -65,9 +65,13 @@ Para grandes mudanças, por favor abra uma issue primeiro para discutir as alter
 ## Autores
 
 **Pedro Augusto** - [GitHub Profile](https://github.com/Pedrusto)
+
 **Matheus Vasconcelos** - [GitHub Profile](https://github.com/MatheusVsc)
+
 **Matheus dos Santos** - [GitHub Profile](https://github.com/Chinforimpula)
+
 **José Gabriel Dâmaso** - [GitHub Profile](https://github.com/texazboy)
+
 
 
 ## Suporte
